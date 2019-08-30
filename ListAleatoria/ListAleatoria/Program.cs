@@ -10,6 +10,7 @@ namespace ListAleatoria
     {
         static void Main(string[] args)
         {
+            list
         }
     }
 }
